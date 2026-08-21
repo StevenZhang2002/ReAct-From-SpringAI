@@ -1,5 +1,9 @@
 # 第 09 节：Human-in-the-Loop
 
+> 📚 **这是 Spring AI AgentX 渐进式复现教程的第 09 节**  
+> 本教程共 15 节，通过独立 git 分支逐步叠加 feature，最终 1:1 复现完整的 Java Agent 框架。  
+> 👉 [查看教程目录](../..) | [← 上一节](../08-thinking-mode/README.md) | [下一节 →](../10-hook-system/README.md)
+
 ## 本节目标
 
 实现人机交互（HITL）：Agent 可以在需要时暂停执行、向用户提问，收到回答后恢复继续。
