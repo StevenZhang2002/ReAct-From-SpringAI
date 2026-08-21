@@ -1,5 +1,9 @@
 # 第 07 节：动态参数与并发控制
 
+> 📚 **这是 Spring AI AgentX 渐进式复现教程的第 07 节**  
+> 本教程共 15 节，通过独立 git 分支逐步叠加 feature，最终 1:1 复现完整的 Java Agent 框架。  
+> 👉 [查看教程目录](../..) | [← 上一节](../06-session-persistence/README.md) | [下一节 →](../08-thinking-mode/README.md)
+
 ## 本节目标
 
 实现两个关键能力：
