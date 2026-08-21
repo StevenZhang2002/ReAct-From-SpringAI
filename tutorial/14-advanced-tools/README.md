@@ -1,5 +1,9 @@
 # 第 14 节：高级内置工具
 
+> 📚 **这是 Spring AI AgentX 渐进式复现教程的第 14 节**  
+> 本教程共 15 节，通过独立 git 分支逐步叠加 feature，最终 1:1 复现完整的 Java Agent 框架。  
+> 👉 [查看教程目录](../..) | [← 上一节](../13-trace-audit/README.md) | [下一节 →](../15-advanced-features/README.md)
+
 ## 本节目标
 
 实现高级内置工具：提供任务管理（TodoWrite）和 Shell 命令执行（Bash）等实用工具，增强 Agent 的能力。
