@@ -1,5 +1,9 @@
 # 第 04 节：ReAct 循环引擎
 
+> 📚 **这是 Spring AI AgentX 渐进式复现教程的第 04 节**  
+> 本教程共 15 节，通过独立 git 分支逐步叠加 feature，最终 1:1 复现完整的 Java Agent 框架。  
+> 👉 [查看教程目录](../..) | [← 上一节](../03-minimal-agent/README.md) | [下一节 →](../05-streaming/README.md)
+
 ## 本节目标
 
 实现 ReAct（Reasoning + Acting）多轮循环：LLM 调用 → 检测工具调用 → 执行工具 → 将结果加入消息 → 再次调用 LLM → 直到没有工具调用或达到上限。
