@@ -1,5 +1,9 @@
 # 第 06 节：会话持久化
 
+> 📚 **这是 Spring AI AgentX 渐进式复现教程的第 06 节**  
+> 本教程共 15 节，通过独立 git 分支逐步叠加 feature，最终 1:1 复现完整的 Java Agent 框架。  
+> 👉 [查看教程目录](../..) | [← 上一节](../05-streaming/README.md) | [下一节 →](../07-params-concurrency/README.md)
+
 ## 本节目标
 
 让 Agent 拥有「记忆」：多轮对话的消息自动存入数据库，下次调用时加载历史上下文。
