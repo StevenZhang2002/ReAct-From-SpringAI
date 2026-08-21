@@ -1,6 +1,6 @@
 # Spring AI AgentX 渐进式复现教程
 
-受 [Spring AI AgentX](https://github.com/StevenZhang2002/ReAct-From-SpringAI) 项目启发，通过 **15 节渐进式教程**，从零开始 1:1 复现一个完整的 Java Agent 框架。
+受 [Spring AI AgentX](https://github.com/bigchuidw3/spring-ai-agentx.git) 项目启发，通过 **15 节渐进式教程**，从零开始 1:1 复现一个完整的 Java Agent 框架。
 
 > JDK 21+ | Spring Boot 3.5.x | Spring AI 1.1.0
 
