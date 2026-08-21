@@ -1,5 +1,9 @@
 # 第 03 节：最小可用 Agent
 
+> 📚 **这是 Spring AI AgentX 渐进式复现教程的第 03 节**  
+> 本教程共 15 节，通过独立 git 分支逐步叠加 feature，最终 1:1 复现完整的 Java Agent 框架。  
+> 👉 [查看教程目录](../..) | [← 上一节](../02-core-models/README.md) | [下一节 →](../04-react-loop/README.md)
+
 ## 本节目标
 
 实现一个最小但可用的 ReactAgent — 能接收用户输入、调用 LLM、返回文本结果。
