@@ -1,5 +1,9 @@
 # 第 02 节：核心模型定义
 
+> 📚 **这是 Spring AI AgentX 渐进式复现教程的第 02 节**  
+> 本教程共 15 节，通过独立 git 分支逐步叠加 feature，最终 1:1 复现完整的 Java Agent 框架。  
+> 👉 [查看教程目录](../..) | [← 上一节](../01-project-skeleton/README.md) | [下一节 →](../03-minimal-agent/README.md)
+
 ## 本节目标
 
 定义 Agent 框架的基础数据模型，为后续 Agent 实现提供数据结构支撑。
