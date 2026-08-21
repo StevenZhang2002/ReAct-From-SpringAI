@@ -20,7 +20,7 @@
         <fastjson2.version>2.0.60</fastjson2.version>
         <mybatis-plus.version>3.5.12</mybatis-plus.version>
     </properties>
-    <modules><module>spring-ai-agentx-core</module></modules>
+    <modules><module>spring-ai-agentx-core</module><module>spring-ai-agentx-samples</module></modules>
     <dependencyManagement><dependencies>
         <dependency><groupId>org.springframework.ai</groupId><artifactId>spring-ai-bom</artifactId><version>${spring-ai.version}</version><type>pom</type><scope>import</scope></dependency>
     </dependencies></dependencyManagement>
