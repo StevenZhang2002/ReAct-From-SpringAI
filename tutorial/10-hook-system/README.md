@@ -1,5 +1,9 @@
 # 第 10 节：Hook 生命周期
 
+> 📚 **这是 Spring AI AgentX 渐进式复现教程的第 10 节**  
+> 本教程共 15 节，通过独立 git 分支逐步叠加 feature，最终 1:1 复现完整的 Java Agent 框架。  
+> 👉 [查看教程目录](../..) | [← 上一节](../09-hitl/README.md) | [下一节 →](../11-context-compression/README.md)
+
 ## 本节目标
 
 实现可扩展的 Hook 系统：允许用户在 Agent 执行的关键节点插入自定义逻辑，实现日志记录、参数修改、权限校验等功能。
