@@ -1,5 +1,9 @@
 # 第 01 节：项目骨架搭建
 
+> 📚 **这是 Spring AI AgentX 渐进式复现教程的第 01 节**  
+> 本教程共 15 节，通过独立 git 分支逐步叠加 feature，最终 1:1 复现完整的 Java Agent 框架。  
+> 👉 [查看教程目录](../..) | [上一节](#) | [下一节 →](../02-core-models/README.md)
+
 ## 本节目标
 
 从零搭建 Spring AI AgentX 的 Maven 多模块项目结构，建立基础包目录。
